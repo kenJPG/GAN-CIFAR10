@@ -1,0 +1,6 @@
+[INFO] 2023-01-25 01:07:37 > Epoch: 1 | Step:    500 Progress: 0.2% Elapsed: 0:00:22 Gen_loss: 21.22 Dis_loss: 0.6186 Cls_loss: N/A 
+[INFO] 2023-01-25 01:07:58 > Epoch: 2 | Step:   1000 Progress: 0.5% Elapsed: 0:00:43 Gen_loss: 7.477 Dis_loss: 0.11 Cls_loss: N/A 
+[INFO] 2023-01-25 01:08:20 > Epoch: 3 | Step:   1500 Progress: 0.8% Elapsed: 0:01:05 Gen_loss: 7.07 Dis_loss: 0.1741 Cls_loss: N/A 
+[INFO] 2023-01-25 01:08:41 > Epoch: 5 | Step:   2000 Progress: 1.0% Elapsed: 0:01:26 Gen_loss: 3.804 Dis_loss: 2.832 Cls_loss: N/A 
+[INFO] 2023-01-25 01:09:02 > Epoch: 6 | Step:   2500 Progress: 1.2% Elapsed: 0:01:48 Gen_loss: 3.832 Dis_loss: 0.05957 Cls_loss: N/A 
+[INFO] 2023-01-25 01:09:24 > Epoch: 7 | Step:   3000 Progress: 1.5% Elapsed: 0:02:09 Gen_loss: 5.984 Dis_loss: 0.01828 Cls_loss: N/A 

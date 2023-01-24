@@ -1,0 +1,2 @@
+[INFO] 2023-01-25 01:12:16 > Epoch: 1 | Step:    500 Progress: 0.2% Elapsed: 0:00:20 Gen_loss: 16.27 Dis_loss: 0.0005011 Cls_loss: N/A 
+[INFO] 2023-01-25 01:12:36 > Epoch: 2 | Step:   1000 Progress: 0.5% Elapsed: 0:00:41 Gen_loss: 25.41 Dis_loss: 9.316e-06 Cls_loss: N/A 
