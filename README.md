@@ -1,5 +1,5 @@
 ### GAN-CIFAR 10
-My attempt at GAN for CIFAR10. Major credits to POSTECH StudioGAN for reference code!
+ReACGAN for CIFAR10. Major credits to POSTECH StudioGAN for the code!
 
 See <code>./final_output</code>
 
