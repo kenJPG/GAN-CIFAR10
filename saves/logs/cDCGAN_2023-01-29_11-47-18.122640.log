@@ -1,0 +1,100 @@
+[INFO] 2023-01-29 11:48:13 > Epoch: 1 | Step:    501 Progress: 1.3% Elapsed: 0:00:53 Gen_loss: 9.069 Dis_loss: 0.004597 Cls_loss: N/A Best FID: 1000.0000 Best IS: 0.0000 
+[INFO] 2023-01-29 11:49:16 > Epoch: 2 | Step:   1001 Progress: 2.5% Elapsed: 0:01:56 Gen_loss: 10.74 Dis_loss: 0.02755 Cls_loss: N/A Best FID: 1000.0000 Best IS: 0.0000 
+[INFO] 2023-01-29 11:50:13 > Epoch: 3 | Step:   1501 Progress: 3.8% Elapsed: 0:02:54 Gen_loss: 6.195 Dis_loss: 0.009147 Cls_loss: N/A Best FID: 1000.0000 Best IS: 0.0000 
+[INFO] 2023-01-29 11:51:14 > Epoch: 5 | Step:   2001 Progress: 5.0% Elapsed: 0:03:55 Gen_loss: 4.274 Dis_loss: 0.02193 Cls_loss: N/A Best FID: 1000.0000 Best IS: 0.0000 
+[INFO] 2023-01-29 11:53:38 > Inception Score: 3.592719078063965 | FID: 138.78242945772797
+[INFO] 2023-01-29 11:54:31 > Epoch: 6 | Step:   2501 Progress: 6.3% Elapsed: 0:07:12 Gen_loss: 4.981 Dis_loss: 0.05557 Cls_loss: N/A Best FID: 138.7824 Best IS: 3.5927 
+[INFO] 2023-01-29 11:55:30 > Epoch: 7 | Step:   3001 Progress: 7.5% Elapsed: 0:08:10 Gen_loss: 5.903 Dis_loss: 0.1062 Cls_loss: N/A Best FID: 138.7824 Best IS: 3.5927 
+[INFO] 2023-01-29 11:56:20 > Epoch: 8 | Step:   3501 Progress: 8.8% Elapsed: 0:09:00 Gen_loss: 3.675 Dis_loss: 0.1224 Cls_loss: N/A Best FID: 138.7824 Best IS: 3.5927 
+[INFO] 2023-01-29 11:57:16 > Epoch: 10 | Step:   4001 Progress: 10.0% Elapsed: 0:09:57 Gen_loss: 12.91 Dis_loss: 0.03108 Cls_loss: N/A Best FID: 138.7824 Best IS: 3.5927 
+[INFO] 2023-01-29 11:59:27 > Inception Score: 4.022200107574463 | FID: 84.31350613461586
+[INFO] 2023-01-29 12:00:25 > Epoch: 11 | Step:   4501 Progress: 11.3% Elapsed: 0:13:06 Gen_loss: 7.611 Dis_loss: 0.242 Cls_loss: N/A Best FID: 84.3135 Best IS: 4.0222 
+[INFO] 2023-01-29 12:01:26 > Epoch: 12 | Step:   5001 Progress: 12.5% Elapsed: 0:14:06 Gen_loss: 8.872 Dis_loss: 0.007182 Cls_loss: N/A Best FID: 84.3135 Best IS: 4.0222 
+[INFO] 2023-01-29 12:02:28 > Epoch: 14 | Step:   5501 Progress: 13.8% Elapsed: 0:15:09 Gen_loss: 6.298 Dis_loss: 0.379 Cls_loss: N/A Best FID: 84.3135 Best IS: 4.0222 
+[INFO] 2023-01-29 12:03:27 > Epoch: 15 | Step:   6001 Progress: 15.0% Elapsed: 0:16:08 Gen_loss: 8.601 Dis_loss: 0.01894 Cls_loss: N/A Best FID: 84.3135 Best IS: 4.0222 
+[INFO] 2023-01-29 12:05:51 > Inception Score: 5.178559303283691 | FID: 69.82565282547125
+[INFO] 2023-01-29 12:06:51 > Epoch: 16 | Step:   6501 Progress: 16.3% Elapsed: 0:19:32 Gen_loss: 8.834 Dis_loss: 0.0354 Cls_loss: N/A Best FID: 69.8257 Best IS: 5.1786 
+[INFO] 2023-01-29 12:07:42 > Epoch: 17 | Step:   7001 Progress: 17.5% Elapsed: 0:20:22 Gen_loss: 6.679 Dis_loss: 0.04443 Cls_loss: N/A Best FID: 69.8257 Best IS: 5.1786 
+[INFO] 2023-01-29 12:08:31 > Epoch: 19 | Step:   7501 Progress: 18.8% Elapsed: 0:21:12 Gen_loss: 9.044 Dis_loss: 0.002908 Cls_loss: N/A Best FID: 69.8257 Best IS: 5.1786 
+[INFO] 2023-01-29 12:09:20 > Epoch: 20 | Step:   8001 Progress: 20.0% Elapsed: 0:22:01 Gen_loss: 8.371 Dis_loss: 0.09506 Cls_loss: N/A Best FID: 69.8257 Best IS: 5.1786 
+[INFO] 2023-01-29 12:11:47 > Inception Score: 4.739695072174072 | FID: 64.87699887066327
+[INFO] 2023-01-29 12:12:41 > Epoch: 21 | Step:   8501 Progress: 21.3% Elapsed: 0:25:22 Gen_loss: 7.38 Dis_loss: 0.005098 Cls_loss: N/A Best FID: 64.8770 Best IS: 5.1786 
+[INFO] 2023-01-29 12:13:41 > Epoch: 23 | Step:   9001 Progress: 22.5% Elapsed: 0:26:21 Gen_loss: 6.248 Dis_loss: 0.003486 Cls_loss: N/A Best FID: 64.8770 Best IS: 5.1786 
+[INFO] 2023-01-29 12:14:23 > Epoch: 24 | Step:   9501 Progress: 23.8% Elapsed: 0:27:04 Gen_loss: 2.713 Dis_loss: 0.000867 Cls_loss: N/A Best FID: 64.8770 Best IS: 5.1786 
+[INFO] 2023-01-29 12:15:13 > Epoch: 25 | Step:  10001 Progress: 25.0% Elapsed: 0:27:53 Gen_loss: 4.635 Dis_loss: 0.01202 Cls_loss: N/A Best FID: 64.8770 Best IS: 5.1786 
+[INFO] 2023-01-29 12:17:39 > Inception Score: 4.863276958465576 | FID: 64.26050041556704
+[INFO] 2023-01-29 12:18:38 > Epoch: 26 | Step:  10501 Progress: 26.3% Elapsed: 0:31:18 Gen_loss: 3.482 Dis_loss: 0.002504 Cls_loss: N/A Best FID: 64.2605 Best IS: 5.1786 
+[INFO] 2023-01-29 12:19:41 > Epoch: 28 | Step:  11001 Progress: 27.5% Elapsed: 0:32:21 Gen_loss: 5.183 Dis_loss: 0.002027 Cls_loss: N/A Best FID: 64.2605 Best IS: 5.1786 
+[INFO] 2023-01-29 12:20:36 > Epoch: 29 | Step:  11501 Progress: 28.8% Elapsed: 0:33:17 Gen_loss: 7.224 Dis_loss: 0.01006 Cls_loss: N/A Best FID: 64.2605 Best IS: 5.1786 
+[INFO] 2023-01-29 12:21:30 > Epoch: 30 | Step:  12001 Progress: 30.0% Elapsed: 0:34:11 Gen_loss: 12.53 Dis_loss: 0.0008506 Cls_loss: N/A Best FID: 64.2605 Best IS: 5.1786 
+[INFO] 2023-01-29 12:23:56 > Inception Score: 5.879106044769287 | FID: 59.296892035017095
+[INFO] 2023-01-29 12:24:59 > Epoch: 32 | Step:  12501 Progress: 31.3% Elapsed: 0:37:39 Gen_loss: 8.367 Dis_loss: 0.003786 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:25:54 > Epoch: 33 | Step:  13001 Progress: 32.5% Elapsed: 0:38:34 Gen_loss: 6.782 Dis_loss: 0.0007613 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:26:48 > Epoch: 34 | Step:  13501 Progress: 33.8% Elapsed: 0:39:29 Gen_loss: 7.147 Dis_loss: 0.02379 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:27:49 > Epoch: 35 | Step:  14001 Progress: 35.0% Elapsed: 0:40:30 Gen_loss: 7.674 Dis_loss: 0.03117 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:30:09 > Inception Score: 5.376884937286377 | FID: 65.60141602946408
+[INFO] 2023-01-29 12:31:04 > Epoch: 37 | Step:  14501 Progress: 36.3% Elapsed: 0:43:44 Gen_loss: 7.466 Dis_loss: 0.008707 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:32:03 > Epoch: 38 | Step:  15001 Progress: 37.5% Elapsed: 0:44:44 Gen_loss: 10.37 Dis_loss: 0.0013 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:32:52 > Epoch: 39 | Step:  15501 Progress: 38.8% Elapsed: 0:45:33 Gen_loss: 10.94 Dis_loss: 0.009244 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:33:47 > Epoch: 41 | Step:  16001 Progress: 40.0% Elapsed: 0:46:28 Gen_loss: 6.982 Dis_loss: 0.03986 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:36:06 > Inception Score: 5.367702484130859 | FID: 72.5799643472975
+[INFO] 2023-01-29 12:37:08 > Epoch: 42 | Step:  16501 Progress: 41.3% Elapsed: 0:49:48 Gen_loss: 8.045 Dis_loss: 0.0004215 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:38:06 > Epoch: 43 | Step:  17001 Progress: 42.5% Elapsed: 0:50:47 Gen_loss: 11.46 Dis_loss: 0.01479 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:38:56 > Epoch: 44 | Step:  17501 Progress: 43.8% Elapsed: 0:51:36 Gen_loss: 13.14 Dis_loss: 0.0001538 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:39:56 > Epoch: 46 | Step:  18001 Progress: 45.0% Elapsed: 0:52:37 Gen_loss: 7.936 Dis_loss: 0.002887 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:42:07 > Inception Score: 5.834770679473877 | FID: 67.1156237327009
+[INFO] 2023-01-29 12:42:54 > Epoch: 47 | Step:  18501 Progress: 46.3% Elapsed: 0:55:35 Gen_loss: 6.06 Dis_loss: 0.033 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:43:53 > Epoch: 48 | Step:  19001 Progress: 47.5% Elapsed: 0:56:33 Gen_loss: 12.52 Dis_loss: 0.00053 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:44:42 > Epoch: 50 | Step:  19501 Progress: 48.8% Elapsed: 0:57:23 Gen_loss: 13.46 Dis_loss: 0.004363 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:45:43 > Epoch: 51 | Step:  20001 Progress: 50.0% Elapsed: 0:58:24 Gen_loss: 9.032 Dis_loss: 0.006609 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:47:44 > Inception Score: 5.6165547370910645 | FID: 62.206104195378316
+[INFO] 2023-01-29 12:48:45 > Epoch: 52 | Step:  20501 Progress: 51.3% Elapsed: 1:01:25 Gen_loss: 10.78 Dis_loss: 0.0143 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:49:48 > Epoch: 53 | Step:  21001 Progress: 52.5% Elapsed: 1:02:29 Gen_loss: 5.114 Dis_loss: 0.004311 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:50:51 > Epoch: 55 | Step:  21501 Progress: 53.8% Elapsed: 1:03:32 Gen_loss: 9.018 Dis_loss: 0.00156 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:51:53 > Epoch: 56 | Step:  22001 Progress: 55.0% Elapsed: 1:04:34 Gen_loss: 9.932 Dis_loss: 0.008376 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:54:23 > Inception Score: 5.618001461029053 | FID: 72.78057782782463
+[INFO] 2023-01-29 12:55:09 > Epoch: 57 | Step:  22501 Progress: 56.3% Elapsed: 1:07:50 Gen_loss: 12.54 Dis_loss: 0.01509 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:56:09 > Epoch: 58 | Step:  23001 Progress: 57.5% Elapsed: 1:08:50 Gen_loss: 7.914 Dis_loss: 0.02795 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:57:13 > Epoch: 60 | Step:  23501 Progress: 58.8% Elapsed: 1:09:53 Gen_loss: 21.89 Dis_loss: 0.003158 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 12:58:10 > Epoch: 61 | Step:  24001 Progress: 60.0% Elapsed: 1:10:51 Gen_loss: 2.434 Dis_loss: 0.01215 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:00:17 > Inception Score: 5.834108352661133 | FID: 69.1360444399304
+[INFO] 2023-01-29 13:01:12 > Epoch: 62 | Step:  24501 Progress: 61.3% Elapsed: 1:13:52 Gen_loss: 11.57 Dis_loss: 0.002771 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:02:04 > Epoch: 64 | Step:  25001 Progress: 62.5% Elapsed: 1:14:45 Gen_loss: 31.2 Dis_loss: 0.02257 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:03:05 > Epoch: 65 | Step:  25501 Progress: 63.8% Elapsed: 1:15:46 Gen_loss: 10.58 Dis_loss: 0.001385 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:04:06 > Epoch: 66 | Step:  26001 Progress: 65.0% Elapsed: 1:16:46 Gen_loss: 16.23 Dis_loss: 0.0876 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:06:11 > Inception Score: 5.3664164543151855 | FID: 91.37488750982499
+[INFO] 2023-01-29 13:07:12 > Epoch: 67 | Step:  26501 Progress: 66.3% Elapsed: 1:19:53 Gen_loss: 11.24 Dis_loss: 0.08479 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:08:16 > Epoch: 69 | Step:  27001 Progress: 67.5% Elapsed: 1:20:57 Gen_loss: 13.86 Dis_loss: 0.0007587 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:09:19 > Epoch: 70 | Step:  27501 Progress: 68.8% Elapsed: 1:21:59 Gen_loss: 16.28 Dis_loss: 0.01775 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:10:21 > Epoch: 71 | Step:  28001 Progress: 70.0% Elapsed: 1:23:02 Gen_loss: 10.32 Dis_loss: 0.004387 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:12:36 > Inception Score: 5.089564800262451 | FID: 78.53040267717012
+[INFO] 2023-01-29 13:13:36 > Epoch: 73 | Step:  28501 Progress: 71.3% Elapsed: 1:26:16 Gen_loss: 11.97 Dis_loss: 0.002975 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:14:39 > Epoch: 74 | Step:  29001 Progress: 72.5% Elapsed: 1:27:19 Gen_loss: 5.095 Dis_loss: 0.2192 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:15:47 > Epoch: 75 | Step:  29501 Progress: 73.8% Elapsed: 1:28:28 Gen_loss: 12.9 Dis_loss: 0.007432 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:16:45 > Epoch: 76 | Step:  30001 Progress: 75.0% Elapsed: 1:29:26 Gen_loss: 12.98 Dis_loss: 0.001691 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:19:08 > Inception Score: 4.926414489746094 | FID: 109.29746341641652
+[INFO] 2023-01-29 13:20:00 > Epoch: 78 | Step:  30501 Progress: 76.3% Elapsed: 1:32:40 Gen_loss: 10.73 Dis_loss: 0.02011 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:20:51 > Epoch: 79 | Step:  31001 Progress: 77.5% Elapsed: 1:33:32 Gen_loss: 7.736 Dis_loss: 0.1286 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:21:31 > Epoch: 80 | Step:  31501 Progress: 78.8% Elapsed: 1:34:12 Gen_loss: 10.93 Dis_loss: 0.0004271 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:22:10 > Epoch: 82 | Step:  32001 Progress: 80.0% Elapsed: 1:34:51 Gen_loss: 8.167 Dis_loss: 0.0009433 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:24:36 > Inception Score: 4.536715030670166 | FID: 103.44740496163081
+[INFO] 2023-01-29 13:25:23 > Epoch: 83 | Step:  32501 Progress: 81.3% Elapsed: 1:38:04 Gen_loss: 10.24 Dis_loss: 0.01011 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:26:19 > Epoch: 84 | Step:  33001 Progress: 82.5% Elapsed: 1:38:59 Gen_loss: 13.93 Dis_loss: 0.006235 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:27:11 > Epoch: 85 | Step:  33501 Progress: 83.8% Elapsed: 1:39:52 Gen_loss: 29.43 Dis_loss: 0.5323 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:28:09 > Epoch: 87 | Step:  34001 Progress: 85.0% Elapsed: 1:40:50 Gen_loss: 8.389 Dis_loss: 0.04386 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:30:36 > Inception Score: 3.7887847423553467 | FID: 120.20582442347188
+[INFO] 2023-01-29 13:31:35 > Epoch: 88 | Step:  34501 Progress: 86.3% Elapsed: 1:44:15 Gen_loss: 13.23 Dis_loss: 0.0001919 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:32:24 > Epoch: 89 | Step:  35001 Progress: 87.5% Elapsed: 1:45:04 Gen_loss: 6.921 Dis_loss: 0.009757 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:33:17 > Epoch: 91 | Step:  35501 Progress: 88.8% Elapsed: 1:45:57 Gen_loss: 27.03 Dis_loss: 0.5545 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:34:05 > Epoch: 92 | Step:  36001 Progress: 90.0% Elapsed: 1:46:46 Gen_loss: 9.262 Dis_loss: 0.0001246 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:36:03 > Inception Score: 3.438552141189575 | FID: 126.1716426041612
+[INFO] 2023-01-29 13:37:04 > Epoch: 93 | Step:  36501 Progress: 91.3% Elapsed: 1:49:44 Gen_loss: 16.04 Dis_loss: 0.03708 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:38:09 > Epoch: 94 | Step:  37001 Progress: 92.5% Elapsed: 1:50:50 Gen_loss: 8.905 Dis_loss: 0.0003396 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:39:00 > Epoch: 96 | Step:  37501 Progress: 93.8% Elapsed: 1:51:41 Gen_loss: 9.204 Dis_loss: 0.0004053 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:39:49 > Epoch: 97 | Step:  38001 Progress: 95.0% Elapsed: 1:52:29 Gen_loss: 13.35 Dis_loss: 0.0834 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:42:18 > Inception Score: 4.5585618019104 | FID: 140.7779853908662
+[INFO] 2023-01-29 13:43:16 > Epoch: 98 | Step:  38501 Progress: 96.3% Elapsed: 1:55:57 Gen_loss: 27.96 Dis_loss: 0.0003309 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:44:13 > Epoch: 100 | Step:  39001 Progress: 97.5% Elapsed: 1:56:54 Gen_loss: 13.43 Dis_loss: 0.06129 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:45:02 > Epoch: 101 | Step:  39501 Progress: 98.8% Elapsed: 1:57:43 Gen_loss: 10.04 Dis_loss: 0.0008249 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:46:00 > Epoch: 102 | Step:  40001 Progress: 100.0% Elapsed: 1:58:41 Gen_loss: 7.349 Dis_loss: 0.003272 Cls_loss: N/A Best FID: 59.2969 Best IS: 5.8791 
+[INFO] 2023-01-29 13:48:26 > Inception Score: 4.499044418334961 | FID: 140.68665186533735

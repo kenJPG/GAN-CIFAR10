@@ -1,9 +1,0 @@
-[INFO] 2023-01-24 02:46:56 > Step:    500 Progress: 0.2% Elapsed: 0:06:44 Gen_loss: nan Dis_loss: nan Cls_loss: nan 
-[INFO] 2023-01-24 03:08:08 > Step:    500 Progress: 0.2% Elapsed: 0:06:33 Gen_loss: 2.672 Dis_loss: 2.672 Cls_loss: 2.672 
-[INFO] 2023-01-24 03:14:40 > Step:   1000 Progress: 0.5% Elapsed: 0:13:06 Gen_loss: 3.107 Dis_loss: 3.107 Cls_loss: 3.107 
-[INFO] 2023-01-24 03:21:22 > Step:   1500 Progress: 0.8% Elapsed: 0:19:47 Gen_loss: 2.285 Dis_loss: 2.285 Cls_loss: 2.285 
-[INFO] 2023-01-24 03:27:54 > Step:   2000 Progress: 1.0% Elapsed: 0:26:19 Gen_loss: 2.748 Dis_loss: 2.748 Cls_loss: 2.748 
-[INFO] 2023-01-24 03:34:27 > Step:   2500 Progress: 1.2% Elapsed: 0:32:53 Gen_loss: 2.848 Dis_loss: 2.848 Cls_loss: 2.848 
-[INFO] 2023-01-24 03:40:52 > Step:   3000 Progress: 1.5% Elapsed: 0:39:17 Gen_loss: 1.934 Dis_loss: 1.934 Cls_loss: 1.934 
-[INFO] 2023-01-24 03:47:20 > Step:   3500 Progress: 1.8% Elapsed: 0:45:45 Gen_loss: 2.707 Dis_loss: 2.707 Cls_loss: 2.707 
-[INFO] 2023-01-24 03:53:50 > Step:   4000 Progress: 2.0% Elapsed: 0:52:15 Gen_loss: 1.926 Dis_loss: 1.926 Cls_loss: 1.926 
